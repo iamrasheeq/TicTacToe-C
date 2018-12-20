@@ -1,5 +1,5 @@
 # TicTacToe-C
-A game with AI and Multiplayer.
+A game with Computer and Multiplayer.
 
 Game Features :
  

@@ -874,7 +874,11 @@ int main()
                     else if(win[3].wii!= 8){
                         *po = 8;
                     }else{
-                        *po = 3;
+                        if(win[1].wii!= 3){
+                            *po = 3;
+                        }else{
+                            *po = 1 ;
+                        }
                     }
                     
                 }else if(win[2].wii == 3){
